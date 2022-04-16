@@ -1,0 +1,24 @@
+#video{
+    width: 500px;
+    height:500px;
+    border: none;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+
+#welcome{
+    bottom: 0; 
+     display: table;
+      width: 100%;
+       height: 100%;
+}
+
+.my_nav_bar{
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+}
